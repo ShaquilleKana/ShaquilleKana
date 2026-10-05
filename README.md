@@ -4,10 +4,6 @@
   <strong>Software Engineer · Full-Stack Developer</strong>
 </p>
 
-<p align="center">
-  I build practical software across web, mobile, and AI.
-</p>
-
 <br>
 
 ### 💻 Full-Stack
