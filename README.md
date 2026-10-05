@@ -1,16 +1,23 @@
-Muhammad Shaquille Kana
-Software Engineer · Full-Stack Developer
+<h1 align="center">Muhammad Shaquille Kana</h1>
 
-I build practical software across web, mobile, and AI.
+<p align="center">
+  <strong>Software Engineer · Full-Stack Developer</strong>
+</p>
 
-💻 FULL-STACK
-Laravel · Next.js · React · MySQL
+<p align="center">
+  I build practical software across web, mobile, and AI.
+</p>
 
-📱 MOBILE
-Flutter · REST API
+<br>
 
-🤖 AI
-LLM Integration · NLP · Gemini API
+### 💻 Full-Stack
+`Laravel` · `Next.js` · `React` · `MySQL`
 
-🛠️ TOOLS
-Git · Docker · Postman · N8N
+### 📱 Mobile
+`Flutter` · `REST API`
+
+### 🤖 AI
+`LLM Integration` · `NLP` · `Gemini API`
+
+### 🛠️ Tools
+`Git` · `Docker` · `Postman` · `N8N`
